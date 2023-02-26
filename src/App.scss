@@ -1,0 +1,14 @@
+@import '../src/scss/colors';
+@import '../src/scss/bootstrap';
+@import '../src/scss/hero';
+@import '../src/scss/login';
+@import '../src/scss/eventDetail';
+@import '../src/scss/joinevent';
+#root{
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+main{
+    flex: 1 0 auto;
+}
